@@ -14,7 +14,7 @@ Users can check in by entering their name or ID, and the system records the chec
 ## 🎥 Project Demo (YouTube)
 
 Watch the full walkthrough video here:  
-👉 https://studio.youtube.com/video/5uPSrNHLABc/edit
+👉 https://youtu.be/5uPSrNHLABc
 
 --
 
